@@ -1,0 +1,9 @@
+# 2. Raw Data
+
+## Data Acquisition
+The dataset was obtained as a CSV file:
+US Cancer Death Rates by State Machine.csv
+It contains cancer death rates per 100,000 people for each U.S. state from 2014 to 2023 and total deaths for the same years as well.
+
+## Data Source
+I got the data from: https://www.cdc.gov/nchs/state-stats/deaths/cancer.html
